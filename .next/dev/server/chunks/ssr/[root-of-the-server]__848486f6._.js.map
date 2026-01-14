@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":""}},
+    {"offset": {"line": 9, "column": 0}, "map": {"version":3,"sources":["file:///Users/mmonell/Desktop/CriminalAttorney/pages/secure-messages.tsx"],"sourcesContent":["export { default } from '../src/pages/SecureMessages';\n"],"names":[],"mappings":";AAAA"}}]
+}
