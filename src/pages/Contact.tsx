@@ -13,7 +13,7 @@ const attorney = {
   email: 'rosie.tejada@lawfirm.com',
   zoom: 'https://zoom.us/j/1234567890',
   bio: `Rosie Tejada is an experienced criminal defense attorney with a proven track record of defending clients in high-stakes cases. She is dedicated to providing compassionate, strategic, and effective legal representation.`,
-  photo: 'https://randomuser.me/api/portraits/women/44.jpg',
+  photo: '/images/rosietejada.jpeg',
 };
 
 const Contact: React.FC = () => {
